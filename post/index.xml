@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://leo-lopes.github.io/leo_lopes_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Census</title>
+      <link>https://leo-lopes.github.io/leo_lopes_portfolio/post/chapter-4/</link>
+      <pubDate>Mon, 01 Aug 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://leo-lopes.github.io/leo_lopes_portfolio/post/chapter-4/</guid>
+      <description>The objective of this simulation is find out the income of a person with the data given in the census.csv file. The plan follows:
+Clean and visualize the data Apply some ML techniques in the data Conclusions Link to GitHub repository</description>
+    </item>
+    
+    <item>
       <title>House pricing in Belo Horizonte</title>
       <link>https://leo-lopes.github.io/leo_lopes_portfolio/post/chapter-1/</link>
       <pubDate>Mon, 01 Aug 2022 10:58:08 -0400</pubDate>
@@ -15,6 +25,27 @@
       <guid>https://leo-lopes.github.io/leo_lopes_portfolio/post/chapter-1/</guid>
       <description>The goal of this notes is to have some information on the house prices in Belo Horizonte, Minas Gerais, Brazil. The plan is:
 Clean and visualize the Data in order to obtain some initial information If possible, apply ML algorithms in the data in order to predict the prices Obtain some conclusions in what makes the prices higher. Latitude x Longitude with a mapcolor representing the house price in Belo Horizonte, see more below.</description>
+    </item>
+    
+    <item>
+      <title>Titanic spaceship - Kaggle competition </title>
+      <link>https://leo-lopes.github.io/leo_lopes_portfolio/post/chapter-2/</link>
+      <pubDate>Mon, 01 Aug 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://leo-lopes.github.io/leo_lopes_portfolio/post/chapter-2/</guid>
+      <description>The goal of this challenge is find out who is going to be transported or not transported to a new dimension using the train data. Link to the challenge in Kaggle.
+I&amp;rsquo;m trying to solve this kagle competition using ML algorithms and some data techinics. This notes are divided in three parts:
+Data analysis and visualization Try to predict who&amp;rsquo;s survive in the spaceship accident Conclusions A prediction using ML in order to find out who is going to be transported to another dimension.</description>
+    </item>
+    
+    <item>
+      <title>Twitter Sentiment Analysis </title>
+      <link>https://leo-lopes.github.io/leo_lopes_portfolio/post/chapter-3/</link>
+      <pubDate>Mon, 01 Aug 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://leo-lopes.github.io/leo_lopes_portfolio/post/chapter-3/</guid>
+      <description>The goal of this program is to build a wordcloud about some subject of interest. In this particular case I created about Covid, but the reader can easily change the subject.
+What are twitter users thinking about Covid ? Link to GitHub repository</description>
     </item>
     
   </channel>
