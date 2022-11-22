@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://leo-lopes.github.io/leo_lopes_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Census</title>
+      <title>Data science: Census</title>
       <link>https://leo-lopes.github.io/leo_lopes_portfolio/post/chapter-4/</link>
       <pubDate>Mon, 01 Aug 2022 10:58:08 -0400</pubDate>
       
@@ -18,7 +18,7 @@ Clean and visualize the data Apply some ML techniques in the data Conclusions Li
     </item>
     
     <item>
-      <title>House pricing in Belo Horizonte</title>
+      <title>Data science: House pricing in Belo Horizonte</title>
       <link>https://leo-lopes.github.io/leo_lopes_portfolio/post/chapter-1/</link>
       <pubDate>Mon, 01 Aug 2022 10:58:08 -0400</pubDate>
       
@@ -28,7 +28,7 @@ Clean and visualize the Data in order to obtain some initial information If poss
     </item>
     
     <item>
-      <title>Titanic spaceship - Kaggle competition </title>
+      <title>Data science: Titanic spaceship - Kaggle competition </title>
       <link>https://leo-lopes.github.io/leo_lopes_portfolio/post/chapter-2/</link>
       <pubDate>Mon, 01 Aug 2022 10:58:08 -0400</pubDate>
       
@@ -39,13 +39,22 @@ Data analysis and visualization Try to predict who&amp;rsquo;s survive in the sp
     </item>
     
     <item>
-      <title>Twitter Sentiment Analysis </title>
+      <title>Data science: Twitter Sentiment Analysis </title>
       <link>https://leo-lopes.github.io/leo_lopes_portfolio/post/chapter-3/</link>
       <pubDate>Mon, 01 Aug 2022 10:58:08 -0400</pubDate>
       
       <guid>https://leo-lopes.github.io/leo_lopes_portfolio/post/chapter-3/</guid>
       <description>The goal of this program is to build a wordcloud about some subject of interest. In this particular case I created about Covid, but the reader can easily change the subject.
 What are twitter users thinking about Covid ? Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Physics: The Schrodinger equation</title>
+      <link>https://leo-lopes.github.io/leo_lopes_portfolio/post/chapter-5/</link>
+      <pubDate>Mon, 01 Aug 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://leo-lopes.github.io/leo_lopes_portfolio/post/chapter-5/</guid>
+      <description>Link to GitHub repository</description>
     </item>
     
   </channel>
