@@ -28,6 +28,15 @@ Clean and visualize the Data in order to obtain some initial information If poss
     </item>
     
     <item>
+      <title>Data science: Songs Recommendations based on spotify dataset</title>
+      <link>https://leo-lopes.github.io/leo_lopes_portfolio/post/chapter01/</link>
+      <pubDate>Mon, 01 Aug 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://leo-lopes.github.io/leo_lopes_portfolio/post/chapter01/</guid>
+      <description>The goal of this program is to build a song reccomendation program. The program in first place analyze some songs features and how it evolves in time. In a next program we can go deep in this analyzes and see how songs envolves in the history music. The second part of the program has a goal of build a song recommendation. To this goal we used the K-Means algorithm and used the PCA method to decrease the number of variables, the K-Means algorithm needs this reducion.</description>
+    </item>
+    
+    <item>
       <title>Data science: Titanic spaceship - Kaggle competition </title>
       <link>https://leo-lopes.github.io/leo_lopes_portfolio/post/chapter-2/</link>
       <pubDate>Mon, 01 Aug 2022 10:58:08 -0400</pubDate>
