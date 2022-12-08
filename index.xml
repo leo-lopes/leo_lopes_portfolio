@@ -6,7 +6,22 @@
     <description>Recent content in Physics and DataScience on Leo Lopes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Aug 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://leo-lopes.github.io/leo_lopes_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Dec 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://leo-lopes.github.io/leo_lopes_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data science: Bank Fraud - predicting using machine learning</title>
+      <link>https://leo-lopes.github.io/leo_lopes_portfolio/post/chapter-fraud/</link>
+      <pubDate>Thu, 08 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://leo-lopes.github.io/leo_lopes_portfolio/post/chapter-fraud/</guid>
+      <description>In here we have simulated a situation where a bank need to detect fraud using machine learning, we create 3 ML algorithms (Logistic regression, decision tree and random forest) to improve our results and detect in the mostrly efficient manner we could. In our final model we have the numbers:
+Accuracy: 0.9994
+Precision: 0.9989
+Recall: 0.9999
+F1: 0.9994,
+that points to a good model in the fraud detection.
+The confusion graph we obtained using the random forest, see more below.</description>
+    </item>
+    
     <item>
       <title>Data science: Census</title>
       <link>https://leo-lopes.github.io/leo_lopes_portfolio/post/chapter-4/</link>
