@@ -6,7 +6,17 @@
     <description>Recent content in Physics and DataScience on Leo Lopes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Dec 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://leo-lopes.github.io/leo_lopes_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://leo-lopes.github.io/leo_lopes_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL and Power BI - Treating and visualizing data using these tools</title>
+      <link>https://leo-lopes.github.io/leo_lopes_portfolio/post/sql_dashboard/</link>
+      <pubDate>Tue, 10 Jan 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://leo-lopes.github.io/leo_lopes_portfolio/post/sql_dashboard/</guid>
+      <description>We have five tables in the &amp;lsquo;xlxs&amp;rsquo; format. The tables are from two Hotel chains in the years 2018,2019 and 2020. The goal is:
+Create a Database with these tables in Microsoft Visual studio (MVS) Create a SQL query in order to join the tables that we need Create a dashboard showing some informations from our database So, the first step is to create the Database, so we take the following steps.</description>
+    </item>
+    
     <item>
       <title>Data science: Bank Fraud - predicting using machine learning</title>
       <link>https://leo-lopes.github.io/leo_lopes_portfolio/post/chapter-fraud/</link>
